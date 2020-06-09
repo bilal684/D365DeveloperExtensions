@@ -51,3 +51,6 @@ Build Status: ![Build status](https://jlattimer.visualstudio.com/_apis/public/bu
 For additional details, see the [wiki](https://github.com/jlattimer/D365DeveloperExtensions/wiki) page
 
 Post any bugs, ideas, or thoughts in the [Issues](https://github.com/jlattimer/D365DeveloperExtensions/issues) area.
+
+**Very important VS2017 Tool extend **
+- Web Essentials 2017
